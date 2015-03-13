@@ -1,0 +1,1 @@
+A new way to record and display genealogy information by showing a graph of people's lives over time at different places linked together by events like marriage and birth.
